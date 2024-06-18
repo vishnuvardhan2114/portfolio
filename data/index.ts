@@ -139,13 +139,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/vishnuvardhan2114",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://x.com/?lang=en",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "www.linkedin.com/in/vishnu-vardhan-14102002v",
   },
 ];

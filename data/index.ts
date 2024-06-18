@@ -149,6 +149,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    link: "www.linkedin.com/in/vishnu-vardhan-14102002v",
+    link: "https://www.linkedin.com/in/vishnu-vardhan-14102002v/",
   },
 ];
